@@ -25,3 +25,5 @@
 /vendor/bundle
 
 /spring/*.pid
+
+/public/uploads
