@@ -31,6 +31,7 @@ group :development do
   gem 'pry-rails'
   gem 'hirb'
   gem 'hirb-unicode'
+  gem 'rubocop', require: false
 end
 
 group :test do
